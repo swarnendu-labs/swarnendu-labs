@@ -1,6 +1,114 @@
-# 💫 About Me:
-👋 Hi, I’m Swarnendu Majumder<br><br>I build real software, not tutorial demos.<br><br>I focus on full-stack development, DevOps automation, and scalable system design.<br>My goal is simple: design systems that actually work in production.<br><br>I value clarity, performance, and maintainability over flashy nonsense.<br><br>🚀 What I Work On<br><br>Full-stack web applications using modern JavaScript and TypeScript<br><br>CI/CD pipeline automation and deployment architectures<br><br>Subscription systems, authentication flows, and backend services<br><br>Developer tools, compilers, dashboards, and infrastructure workflows<br><br>If it can scale, break, recover, and scale again — I’m interested.<br><br>🧠 Technical Knowledge<br>Core Technologies<br><br>Languages: JavaScript, TypeScript, Python, C++<br><br>Frontend: React, HTML, CSS<br><br>Backend: Node.js, Express<br><br>Databases: MongoDB, Supabase<br><br>DevOps: CI/CD, Docker, basic cloud deployment<br><br>Payments: Stripe integration and subscription management<br><br>I don’t chase every new tool — I learn what solves real problems.<br><br>🧩 Notable Projects<br><br>Multi-Language Code Compiler<br>Browser-based compiler supporting Python, C++, and HTML/CSS/JS with real-time execution.<br><br>CI/CD Pipeline Automation Architecture<br>End-to-end documentation and design for automated build, test, and deployment workflows.<br><br>Stripe Integrated Subscription System<br>Secure recurring billing system with tier management and webhook handling.<br><br>Every project exists to prove a skill, not to look pretty.<br><br>📌 How I Think<br><br>Simple > Complex<br><br>Working > Fancy<br><br>Production > Theory<br><br>Learning > Ego<br><br>If something is broken, I fix it.<br>If I don’t know something, I learn it fast.<br><br>📫 Connect With Me<br><br>GitHub: (you’re already here)<br><br>Open to collaborations, learning, and serious discussions
+# Swarnendu Majumder
 
+**Software Engineer focused on production systems, not tutorial theater.**
+
+I build software that runs in the real world — where things fail, scale breaks,
+payments glitch, and systems must recover without drama.
+
+I care about **clarity, performance, and maintainability**.
+Flashy abstractions don’t impress me — working systems do.
+
+---
+
+## What I Build
+
+- Full-stack web applications with real users and real constraints  
+- Backend systems: authentication, subscriptions, APIs, and data pipelines  
+- CI/CD pipelines that automate build → test → deploy without human babysitting  
+- Developer tools, compilers, dashboards, and internal platforms  
+
+If a system can **scale, break, recover, and scale again**, it’s worth building.
+
+---
+
+## Technical Stack
+
+### Core Languages
+- JavaScript
+- TypeScript
+- Python
+- C++
+
+### Frontend
+- React
+- HTML, CSS
+
+### Backend
+- Node.js
+- Express
+
+### Databases
+- MongoDB
+- Supabase
+
+### DevOps & Infrastructure
+- CI/CD pipelines
+- Docker
+- Basic cloud deployment workflows
+
+### Payments
+- Stripe integration
+- Subscription lifecycle management
+- Webhook handling
+
+I don’t chase tools.
+I learn what **solves real problems** and ignore the rest.
+
+---
+
+## Selected Projects
+
+### 🧠 Multi-Language Code Compiler
+Browser-based compiler supporting **Python, C++, and HTML/CSS/JS**  
+Real-time execution with sandboxed environments.
+
+**Focus:** execution flow, security boundaries, runtime handling.
+
+---
+
+### ⚙️ CI/CD Pipeline Automation Architecture
+End-to-end system design for automated **build, test, and deployment** workflows.
+
+**Focus:** reliability, repeatability, zero-manual-steps deployment.
+
+---
+
+### 💳 Stripe Subscription System
+Production-ready recurring billing with:
+- Plan tiers
+- Secure checkout
+- Webhooks
+- Payment state recovery
+
+**Focus:** correctness over convenience.
+
+Every project exists to **prove a capability**, not decorate a portfolio.
+
+---
+
+## How I Think
+
+- Simple > Complex  
+- Working > Fancy  
+- Production > Theory  
+- Learning > Ego  
+
+If something is broken, I fix it.  
+If I don’t know something, I learn it fast.
+
+No excuses. No shortcuts.
+
+---
+
+## Connect
+
+- **GitHub:** You’re already here  
+- **Email:** swarnendumajumdert2007@gmail.com  
+
+Open to:
+- Serious collaboration  
+- System design discussions  
+- Learning from people who actually ship software
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swarnendumajumder/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swarnendumajumdert2007@gmail.com) 
